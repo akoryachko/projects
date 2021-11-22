@@ -1,4 +1,4 @@
-# tst
-about myself
+# projects
+projects descriptions
 
-Testing out github guide for fun in free time
+1. Simulation of bulk versus distributed investment options over time to find out whether one has an an edge over the other
